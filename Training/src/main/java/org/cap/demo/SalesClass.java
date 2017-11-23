@@ -13,5 +13,6 @@ public class SalesClass {
 	
 	public void displaySimple(){
 		System.out.println("Simple display");
+		System.out.println("Hi Simple Display");
 	}
 }
