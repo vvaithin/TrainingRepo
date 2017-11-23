@@ -7,7 +7,9 @@ public class SalesClass {
 	public void display(){
 		System.out.println("Elements");
 		for(int i :arr){
+
 			System.out.println(i*i*i);
+
 		}
 	}
 	
