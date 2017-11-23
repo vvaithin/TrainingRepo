@@ -10,4 +10,8 @@ public class SalesClass {
 			System.out.println(i);
 		}
 	}
+	
+	public void displaySimple(){
+		System.out.println("Simple display");
+	}
 }
