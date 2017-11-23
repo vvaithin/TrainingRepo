@@ -10,5 +10,7 @@ public class MainClass {
 	
 	public static void greetings(){
 		System.out.println("Hello");
+		System.out.println("Welcome");
+		System.out.println("to the world");
 	}
 }
